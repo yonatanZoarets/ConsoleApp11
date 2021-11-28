@@ -1,0 +1,10 @@
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\log4net.dll
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\log4net.xml
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CopyComplete
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+C:\Users\Ronit.Iconics\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache

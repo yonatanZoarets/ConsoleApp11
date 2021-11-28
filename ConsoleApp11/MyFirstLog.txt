@@ -1,0 +1,10 @@
+25/11/2021-Input:9888-Time:0.8 ms
+25/11/2021-Input:8999-Time:0.0 ms
+25/11/2021-Input:87-Time:0.0 ms
+25/11/2021-Input:9000-Time:0.0 ms
+25/11/2021-Input:877-Time:0.0 ms
+27/11/2021-Input:84-Time:0.0 ms
+27/11/2021-Input:798-Time:0.0 ms
+28/11/2021-Input:9000-Time:0.1 ms
+28/11/2021-Input:70-Time:0.0 ms
+28/11/2021-Input:67-Time:0.0 ms
